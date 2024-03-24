@@ -8,4 +8,5 @@ See more details on the [Prescriptive Guidance](https://docs.aws.amazon.com/pres
 The [template](/adrs/template.md) can be found in [adrs](/adrs) folder.
 
 ### ADRs Index
-[0001-adr.md](/adrs/0001-adr.md)
+[0001-adr](/adrs/0001-adr.md)
+[0002-aws-serverless](/adrs/0002-aws-serverless.md)
