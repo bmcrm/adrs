@@ -11,3 +11,4 @@ The [template](/adrs/template.md) can be found in [adrs](/adrs) folder.
 [0001-adr](/adrs/0001-adr.md)
 [0002-aws-serverless](/adrs/0002-aws-serverless.md)
 [0003-iac](/adrs/0003-iac.md)
+[0004-git-repos-organization](/adrs/0004-git-repos-organization.md)
