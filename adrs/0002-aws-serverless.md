@@ -4,8 +4,8 @@ Date: 2024-03-24
 
 ## Status
 
-- [x] proposed
-- [ ] accepted
+- [ ] proposed
+- [x] accepted
 - [ ] deprecated
 - [ ] superseded
 
